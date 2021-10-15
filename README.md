@@ -9,7 +9,7 @@ Python 3 code implementing equations from the Appendix (numbering is consistent 
 
 **Examples of input data:**
 
-*Sampling design information*
+***Sampling design information***
 * 2-3.strata_info.txt (for Sections 2 and 3)
 * 4.strata_info.txt (for Section 4)
 * 5.3.strata_info.txt (for Section 5.3)
@@ -27,7 +27,7 @@ Python 3 code implementing equations from the Appendix (numbering is consistent 
      * "N" - total number of sampling units in the sampling region
      * "X" - population mean of the proportion (from 0 to 1, or from -1 to 1 for net change area estimation) of auxiliary class
 
-*Input data for each sample unit*
+***Input data for each sample unit***
 * 2-3.Sample_data.txt (for Sections 2 and 3)
 * 4.Sample_data.txt (for Section 4)
 * 5.2.Sample_data.txt (for Section 5.2)
