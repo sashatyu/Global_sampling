@@ -4,8 +4,8 @@ Python 3 code implementing equations from the Appendix (numbering is consistent 
 * 2.Sampling of equal area units, strata weighted by number of units.ipynb
 * 3.Sampling of equal area units, strata weighted by area.ipynb
 * 4.Sampling weighted by unit area.ipynb
-* 5.2.Regression estimator - simple random sampling.ipynb
-* 5.3.Regression estimator - stratified sampling.ipynb
+* 5.2. Regression estimator - simple random sampling.ipynb
+* 5.3. Regression estimator - stratified sampling.ipynb
 
 **Examples of input data:**
 
