@@ -1,9 +1,9 @@
 This is a project providing the code and input data examples for various global sampling options from the following publication: Tyukavina et al. (in review) "Options for global sampling of geographic data". For a detailed description of the study please refer to the publicaiton.
 
 Python 3 code implementing equations from the Appendix (numbering is consistent with sections of Appendix)
-* 2. Sampling of equal area units, strata weighted by number of units.ipynb
-* 3. Sampling of equal area units, strata weighted by area.ipynb
-* 4. Sampling weighted by unit area.ipynb
+*  2. Sampling of equal area units, strata weighted by number of units.ipynb
+*  3. Sampling of equal area units, strata weighted by area.ipynb
+*  4. Sampling weighted by unit area.ipynb
 * 5.2. Regression estimator - simple random sampling.ipynb
 * 5.3. Regression estimator - stratified sampling.ipynb
 
