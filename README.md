@@ -22,7 +22,7 @@ Python 3 code implementing equations from the Appendix (numbering is consistent 
    * (for sampling without replacement only, Section 4)"SumPixareaSq" - sum of squared areas of all (not only sampled) units (pixels/polygons) within each stratum
    * (for Section 5.3. only) "Xh" - stratum-specific mean of the proportion (from 0 to 1) of auxiliary class (calculated accross all units in the stratum)
  
- Section 5.2. requires the following parameters specified:
+   Section 5.2. requires the following parameters specified:
      * "Atot" - area of the sampling region (e.g. in km²)
      * "N" - total number of sampling units in the sampling region
      * "X" - population mean of the proportion (from 0 to 1, or from -1 to 1 for net change area estimation) of auxiliary class
