@@ -23,9 +23,9 @@ Python 3 code implementing equations from the Appendix (numbering is consistent 
    * (for Section 5.3. only) "Xh" - stratum-specific mean of the proportion (from 0 to 1) of auxiliary class (calculated accross all units in the stratum)
  
  Section 5.2. requires the following parameters specified:
-   * "Atot" - area of the sampling region (e.g. in km²)
-   * "N" - total number of sampling units in the sampling region
-   * "X" - population mean of the proportion (from 0 to 1, or from -1 to 1 for net change area estimation) of auxiliary class
+      * "Atot" - area of the sampling region (e.g. in km²)
+      * "N" - total number of sampling units in the sampling region
+      * "X" - population mean of the proportion (from 0 to 1, or from -1 to 1 for net change area estimation) of auxiliary class
 
 *Input data for each sample unit*
 * 2-3.Sample_data.txt (for Sections 2 and 3)
