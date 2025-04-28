@@ -1,5 +1,7 @@
 This is a project providing the code and input data examples for various global sampling options from the following publication: Tyukavina et al. (2025) "Practical global sampling methods for estimating area and map accuracy of land cover and change" [https://doi.org/10.1016/j.rse.2025.114714](https://doi.org/10.1016/j.rse.2025.114714). For a detailed description of the study please refer to the publicaiton.
 
+For instructions on how to install Anaconda and run Jupyter notebooks on PC [please refer to this guide](https://docs.google.com/document/d/197kGYTGDyz5te9KebEPLCPXVmrubweAzFACW24Qelqc/edit?usp=sharing).
+
 Python 3 code implementing equations from the Appendix (numbering is consistent with sections of Appendix)
 * A.1.1 Equal probability sampling.ipynb
 * A.1.2 Unequal probability sampling - proportional to unit area.ipynb
