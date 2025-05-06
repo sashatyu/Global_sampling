@@ -57,3 +57,5 @@ The approach for estimating overall accuracy described in the paper (estimating 
 
 When using a ratio estimator (equation A.11 or A.31), both the correctly classified area (numerator of the ratio) and the total area of the study region (denominator of the ratio) are estimated from the sample, and thus the estimated Overall Accuracy will not exceed 100%.
 
+Functions to estimate standard errors of the overall accuracy have been modified as well, and now use respective variance estimators of the ratio for equal and unequal probability sampling.
+
