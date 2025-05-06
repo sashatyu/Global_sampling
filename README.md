@@ -52,6 +52,8 @@ Python 3 code implementing equations from the Appendix (numbering is consistent 
 ***Functions to estimate overall accuracy in sections A.1.1 and A.1.2 have been modified***
 
 The modified version of the code uses ratio estimator (equation A.11 for equal probability sampling (section A.1.1) and equation A.31 for unequal probability sampling (section A.1.2)) instead of equations A.7 (section A.1.1) and A.26 (section A.1.2) as recommended in Appendix A.2.2 of the paper.
+
 The approach for estimating overall accuracy described in the paper (estimating the area of agreement using equation A.7 (for equal probability sampling) or equation A.26 (for unequal probability sampling) and then dividing by a known total area of the study region) is correct, but might produce estimates of OA over 100% in rare cases when overall accuracy is close to 100% (i.e., the area of agreement between the map and the reference sample is very close to the total area of the study region).
+
 When using a ratio estimator (equation A.11 or A.31), both the correctly classified area (numerator of the ratio) and the total area of the study region (denominator of the ratio) are estimated from the sample, and thus the estimated Overall Accuracy will not exceed 100%.
 
