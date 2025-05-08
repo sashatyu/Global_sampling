@@ -17,7 +17,7 @@ Python 3 code implementing equations from the Appendix (numbering is consistent 
    Columns: 
    * "Stratum": Stratum ID (1-N);
    * (N/A for C, not required for A.1.2) "Count": total number of units (pixels, polygons) in each stratum;
-   * (optional for B.2) "Area": Stratum area;
+   * (optional for B.2, not required for A.1.1) "Area": Stratum area;
    * (for B.2 only) "Xh": stratum-specific mean of the values of auxiliary class (calculated accross all units in the stratum).
  
    Section B.1 requires the following parameters specified directly in the code:
